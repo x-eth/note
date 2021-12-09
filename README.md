@@ -1,4 +1,5 @@
-# note
+# LEARNNING NOTE
+
 **DATA**
 
 **Ask**
@@ -111,15 +112,14 @@ Answer the Q immediately ：**Historical data**
 
 4.**similar jobs**
 
-![image-20211128162548707](C:\Users\wzy\AppData\Roaming\Typora\typora-user-images\image-20211128162548707.png)
 
 **RESUME**
 
 
 
  **Biuld your Portfolio and Case  Study Checklist**
+[NQfW0r6WQsmH1tK-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf](https://github.com/x-eth/note/files/7682194/NQfW0r6WQsmH1tK-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf)
 
- [NQfW0r6WQsmH1tK-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf](NQfW0r6WQsmH1tK-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf) 
 
 
 
@@ -175,7 +175,8 @@ Such as:
 
 
 
-**Confidence** is importent when people come to me for answers
+**Confidence** is im
+tent when people come to me for answers
 
 
 
