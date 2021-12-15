@@ -232,9 +232,9 @@ Answer the Q immediately ：**Historical data**
 <br />
 
 **Biuld your Portfolio and Case  Study Checklist**
+[Your-portfolio-and-case-study-checklist.pdf](https://github.com/x-eth/note/files/7717026/Your-portfolio-and-case-study-checklist.pdf)
 
-[NQfW0r6WQsmH1tK-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf](https://github.com/x-eth/note/files/7682194/NQfW0r6WQsmH1tK-
-luLJeg_cf9d5450675649f1a49897eda567916d_Your-portfolio-and-case-study-checklist.pdf)
+
 
 <br />
 
